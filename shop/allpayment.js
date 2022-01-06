@@ -1,31 +1,31 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY NASYAA CANS
 
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ GA ADAA MASIH BOCIL SOALNYA
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ GA ADAA MASIH BOCIL SOALNYA
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ GA ADAA MASIH BOCIL SOALNYA
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ GA ADAA MASIH BOCIL SOALNYA
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0882 2723 9317
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 0882 2723 9317
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0858 4283 2232
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama PU*******RI
 
 *📲 PULSA*
 
-Tidak tersedia
+Tidak Nerima Pulsa:v
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
